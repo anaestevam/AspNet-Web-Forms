@@ -6,7 +6,7 @@ Atividade Técnica .NET
 Versão 17.3.4
 VisualStudio.17.Release/17.3.4+32901.215
 Microsoft .NET Framework
-Versão 4.8.04084
+Versão 4.8.04084 ` 
 
-Versão Instalada: Professional  
+` Versão Instalada: Professional  ` 
 
